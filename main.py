@@ -1,9 +1,9 @@
 def calculator():
-    # Welcome message
+# Welcome message
     print("Welcome to the Simple Calculator.")
 
     while True:
-        # Get user input for two numbers
+# Get user input for two numbers
         num1_str = input("Enter the first number (or 'q' to quit): ")
         if num1_str.lower() == 'q':
             print("Thank you for using the Simple Calculator. Goodbye!")  # Confirmation message
@@ -21,10 +21,10 @@ def calculator():
         num1 = float(num1_str)
         num2 = float(num2_str)
 
-        # Get user input for the operation
+# Get user input for the operation
         operation = input("Enter an operation (+, -, *, /): ")
 
-        # Perform the calculation based on the operation
+# Perform the calculation based on the operation
         if operation == "+":
             result = num1 + num2
             print(f"The result of {num1} + {num2} is {result:.2f}")
