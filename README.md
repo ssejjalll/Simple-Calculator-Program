@@ -1,5 +1,6 @@
 Simple Calculator Program
-Welcome to the Simple Calculator Program! This command-line calculator, developed in Python, allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It is designed to be user-friendly and accessible for beginners in programming.
+Welcome to the Simple Calculator Program.
+This command-line calculator, developed in Python, allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It is designed to be user-friendly and accessible for beginners in programming.
 
 How to Use
 Using the calculator is straightforward. Please follow these steps:
@@ -60,5 +61,11 @@ I welcome your feedback! If you have any suggestions or encounter any issues, pl
 
 Author
 I am Sejal Pandey (https://github.com/ssejjalll), currently on a journey to learn Python and improve my programming skills.
+
+Future Enhancements
+- Implement advanced mathematical functions such as exponentiation, square roots, and trigonometric functions.
+- Develop a graphical user interface (GUI) for a more user-friendly experience.
+- Add unit tests to ensure accuracy and reliability of calculations.
+- Include support for more complex expressions (e.g., parentheses for order of operations).
 
 Thank you for exploring my Simple Calculator Program. I hope you find it useful and enjoyable to use.
